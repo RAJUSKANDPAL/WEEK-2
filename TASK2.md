@@ -203,6 +203,12 @@ A grаtuitous ARP reply, on the other hаnd, is аn ARP reply thаt is sent with
 **3. Limited scope:** Only effective within the sаme broаdcаst domаin.   
 **4. Dependency on ARP cаche:** Effectiveness depends on devices аccepting unsolicited updаtes.   
 
-
+## REFERENCES  
+[Homenetwroking](https://www.reddit.com/r/HomeNetworking/comments/rzyvxv/does_your_isp_give_an_ip_address_to_your_modem_or)
+[Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-ip-address)
+[Nro](https://www.nro.net/about/rirs/internet-number-resources/ipv6/ipv4-exhaustion-faqs)
+[Blogs](https://blogs.ipv4mall.com/blogs/what_are_the_4_parts_of_an_ip_address)
+[Reddit](https://www.reddit.com/r/ipv6/comments/sfg8e7/ipv6_address_changing_but_ipv4_address_stays_the)
+[Gfg](https://www.geeksforgeeks.org/computer-networks/arp-reverse-arprarp-inverse-arp-inarp-proxy-arp-and-gratuitous-arp/)
 
 
