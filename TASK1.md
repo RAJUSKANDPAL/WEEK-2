@@ -207,7 +207,14 @@ Total IPs = 2^(32 – CIDR)
 Usable Hosts = Total IPs – 2 (excluding network & broadcast)  
 
 
+## REFERENCES    
 
+[CISCO](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
+[AWS](https://aws.amazon.com/what-is/cidr/)
+[Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-ip-address)
+[Nro](https://www.nro.net/about/rirs/internet-number-resources/ipv6/ipv4-exhaustion-faqs)
+[Techtaget](http://techtarget.com/whatis/definition/IP-address-Internet-Protocol-Address)
+[What is my IP address](https://whatismyipaddress.com/ip-address)
 
 
 
